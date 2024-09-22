@@ -5,16 +5,6 @@
   - Frontend Development
   - UI/UX Design
   - Open Source Contributions
-
-## 🌱 I’m currently learning ...
-- React.js
-- Node.js
-- GraphQL
-
-## 💞️ I’m looking to collaborate on ...
-  - Open Source Projects
-  - Web Development Projects
-  - Innovative Tech Solutions
   
 ## 📫 How to reach me ... 
   - Email: lucianprocopciuc1@hotmail.com
