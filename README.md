@@ -3,6 +3,7 @@
 ## 👀 I’m interested in ...
   - Developing my coding skills
   - Frontend Development
+  - Backend Development
   - UI/UX Design
   - Open Source Contributions
   
