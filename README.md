@@ -19,7 +19,7 @@ Java • Python • Django • Spring Boot • MySQL • Power BI • Git • HT
 - 📊 **Rate My UoG Course** – Django web app for course feedback and analytics.  
 - ⚙️ **Slow Calculator** – Java multithreading project exploring concurrent execution.
 
-- ## 🧠 Team Contributions
+## 🧠 Team Contributions
 
 #### [Duelyst-II-Clone](https://github.com/rkerkides/Duelyst-II-Clone)
 Contributed to backend and AI system development for a full-stack clone of the *Duelyst II* game.  
