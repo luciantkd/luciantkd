@@ -19,6 +19,12 @@ Java • Python • Django • Spring Boot • MySQL • Power BI • Git • HT
 - 📊 **Rate My UoG Course** – Django web app for course feedback and analytics.  
 - ⚙️ **Slow Calculator** – Java multithreading project exploring concurrent execution.
 
+- ### 🧠 Team Contributions
+
+#### [Duelyst-II-Clone](https://github.com/rkerkides/Duelyst-II-Clone)
+Contributed to backend and AI system development for a full-stack clone of the *Duelyst II* game.  
+Worked on server-side logic and testing within a multi-developer team using **Java, JavaScript, and Play Framework**.
+
 ## 📫 How to reach me
 📧 [lucianprocopciuc1@hotmail.com](mailto:lucianprocopciuc1@hotmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/lucian-procopciuc/)  
